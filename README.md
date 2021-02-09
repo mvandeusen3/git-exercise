@@ -1,2 +1,2 @@
 # git-exercise
-First Git Change
+First Git Commit
